@@ -1,0 +1,10 @@
+# Default ignored files .gitignore
+/shelf/
+.idea/
+.idea/*
+/workspace.xml
+/.env
+pycache/
+*.pyc
+.venv/
+*.log
